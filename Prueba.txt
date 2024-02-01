@@ -1,1 +1,2 @@
 Archivo creado desde Github, commit1
+Hola mundo, inicio de edición desde el repositorio local "feat: primer commit"
