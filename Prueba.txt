@@ -6,3 +6,4 @@ Hola mundo, inicio de edición desde la rama feature/autenticación "feat: cuart
 Hola mundo, inicio de edición desde la rama feature/autenticación "feat: quinto commit"
 Hola mundo, inicio de edición desde la rama feature/contacto "feat: sxto commit"
 Hola mundo, inicio de edición desde la rama feature/contacto "feat: septimo commit"
+Hola mundo, inicio de correccion de autenticacion desde la rama release/1.0 "fix: noveno commit"
