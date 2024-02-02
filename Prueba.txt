@@ -1,2 +1,10 @@
 Archivo creado desde Github, commit1
 Hola mundo, inicio de edición desde el repositorio local "feat: primer commit"
+Hola mundo, inicio de edición desde la rama develop "feat: segundo commit"
+Hola mundo, inicio de edición desde la rama develop "feat: tercer commit"
+Hola mundo, inicio de edición desde la rama feature/autenticación "feat: cuarto commit"
+Hola mundo, inicio de edición desde la rama feature/autenticación "feat: quinto commit"
+Hola mundo, inicio de edición desde la rama feature/contacto "feat: sxto commit"
+Hola mundo, inicio de edición desde la rama feature/contacto "feat: septimo commit"
+Hola mundo, inicio de corrección de autenticacion desde la rama release/1.0 "fix: noveno commit"
+Hola mundo, corrección de autenticacion desde la rama release/1.0 "fix: decimo commit"
