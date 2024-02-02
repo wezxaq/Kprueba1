@@ -11,3 +11,4 @@ Hola mundo, corrección de autenticacion desde la rama release/1.0 "fix: decimo 
 Hola mundo, inicio de edición desde la rama feature/home "fix: decimo primero commit"
 Hola mundo, fin de edición desde la rama feature/home "fix: decimo segundo commit"
 Hola mundo, inicio de edición desde la rama myfeature "feat: decimo tercero commit"
+Hola mundo, fin de edición desde la rama myfeature "feat: decimo cuarto commit"
