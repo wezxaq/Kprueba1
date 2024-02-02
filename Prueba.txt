@@ -14,3 +14,5 @@ Hola mundo, inicio de edición desde la rama myfeature "feat: decimo tercero com
 Hola mundo, fin de edición desde la rama myfeature "feat: decimo cuarto commit"
 Hola mundo, inicio de edición desde la rama feature2 "fix: decimo quinto commit"
 Hola mundo, fin de edición desde la rama feature2 "fix: decimo sexto commit"
+Inicio de corrección de myfeature y myfeature2 desde la rama release/1.2 "fix: decimo octavo commit"
+Fin de corrección de myfeature y myfeature2 desde la rama release/1.2 "fix: decimo noveno commit"
